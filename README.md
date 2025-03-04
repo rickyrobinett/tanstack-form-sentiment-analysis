@@ -1,6 +1,6 @@
 # TanStack Forms with Cloudflare Workers AI
 
-This is a React application using experimenting with TanStack Forms and Cloudflare Workers AI. The app takes in your feedback and presents you with a friendly analysis of the feedback. 
+This is a React application experimenting with TanStack Form and Cloudflare Workers AI. The app takes in your feedback and presents you with a friendly analysis of the feedback. 
 
 Note that this repository uses npm workspaces to manage dependencies. You can run either Worker's npm commands from the root of the repository by adding either -w client or -w worker to your npm command.
 
